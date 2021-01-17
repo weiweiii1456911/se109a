@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Jan 16 20:53:53 2021
-
-@author: user
-"""
-
 from functools import reduce
 
 class Knight:
